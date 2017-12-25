@@ -10,7 +10,7 @@ import sys
 
 def Reverse_Complement(fi):
     '''
-    :return: The transcribed RNA string.
+    :return: The reverse complement
     '''
     ipt_file = open(fi, 'r').read().replace('\n', '')
 
