@@ -1,6 +1,6 @@
 '''
 My solution to Rosalind Bioinformatics Problem
-Title: Complementing a Strand of DNA
+Title: Rabbits and Recurrence Relations
 Rosalind ID: Fib
 Rosalind #: 004
 URL: http://rosalind.info/problems/fib/
